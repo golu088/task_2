@@ -93,7 +93,5 @@ Attackers use psychological manipulation such as:
 
 ---
 
-## ✅ Summary
 
-This report explains phishing, how to identify it, email spoofing, risk factors, prevention steps, header-analysis tools, and social engineering techniques used by attackers.
 
